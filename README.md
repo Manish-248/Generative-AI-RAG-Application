@@ -1,6 +1,3 @@
-# Generative-AI-RAG-Application
-Generative AI RAG Application using ChromeDB and S3 Storage in AWS cloud
-
 # How to run?
 
 ### STEPS:
@@ -32,4 +29,3 @@ Now,
 ```bash
 open up you local host and port
 ```
-
